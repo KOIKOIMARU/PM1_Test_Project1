@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Blue Fire!\n";
 
-    std::cout << "Green Fire!\n";
+    std::cout << "Red Fire!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
